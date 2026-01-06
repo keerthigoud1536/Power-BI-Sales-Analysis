@@ -25,6 +25,5 @@ To transform raw sales data into meaningful insights using Power BI through effe
 - Observed seasonal trends and peak sales periods  
 - Highlighted underperforming segments for improvement  
 
-## 📷 Dashboard Preview
-![Overview](screenshots/overview.png)
+
 
